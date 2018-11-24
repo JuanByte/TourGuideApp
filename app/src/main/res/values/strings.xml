@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TourGuideApp</string>
+    <string name="culture_name">Culture</string>
+    <string name="hotels_name">Hotels</string>
+    <string name="historicalPlaces_name">Historical Places</string>
+    <string name="parks_name">Parks</string>
 </resources>
