@@ -2,10 +2,10 @@ package com.example.android.tourguideapp;
 
 public class Categories {
     private int imageCategory;
-    private String textCategory;
+    private int textCategory;
 
 
-    public Categories(int imageCategory, String textCategory) {
+    public Categories(int imageCategory, int textCategory) {
         this.imageCategory = imageCategory;
         this.textCategory = textCategory;
     }
@@ -14,7 +14,7 @@ public class Categories {
         return imageCategory;
     }
 
-    public String getTextCategory() {
+    public int getTextCategory() {
         return textCategory;
     }
 
@@ -22,7 +22,7 @@ public class Categories {
         this.imageCategory = imageCategory;
     }
 
-    public void setTextCategory(String textCategory) {
+    public void setTextCategory(int textCategory) {
         this.textCategory = textCategory;
     }
 
