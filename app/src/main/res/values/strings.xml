@@ -4,4 +4,9 @@
     <string name="hotels_name">Hotels</string>
     <string name="historicalPlaces_name">Historical Places</string>
     <string name="parks_name">Parks</string>
+    <string name="museums_name">Museums</string>
+    <string name="festivals_name">Festivals</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

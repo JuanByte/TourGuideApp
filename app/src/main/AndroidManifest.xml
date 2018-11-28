@@ -34,6 +34,14 @@
             android:label="@string/parks_name"
             android:parentActivityName=".MainActivity"
             />
+        <activity android:name=".MuseumActivity"
+            android:label="@string/museums_name"
+            android:parentActivityName=".MainActivity"
+            />
+        <activity android:name=".FestivalActivity"
+            android:label="@string/festivals_name"
+            android:parentActivityName=".MainActivity"
+            />
     </application>
 
 </manifest>
